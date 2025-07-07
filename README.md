@@ -20,7 +20,7 @@ A simple FastAPI backend for managing fitness class schedules and bookings.
 - Booking Limits: Each user (email) can book a maximum of 3 classes per week.
 
 ##  Project Structure
-
+```
 fitness-booking-api/
 ├── main.py
 ├── models.py
@@ -30,7 +30,7 @@ fitness-booking-api/
 ├── seed_data.json
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ##  Setup Instructions
